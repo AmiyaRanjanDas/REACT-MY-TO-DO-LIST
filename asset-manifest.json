@@ -1,7 +1,7 @@
 {
   "main.css": "/REACT-MY-TO-DO-LIST/static/css/main.f7564d33.chunk.css",
-  "main.js": "/REACT-MY-TO-DO-LIST/static/js/main.7f39dd50.chunk.js",
-  "main.js.map": "/REACT-MY-TO-DO-LIST/static/js/main.7f39dd50.chunk.js.map",
+  "main.js": "/REACT-MY-TO-DO-LIST/static/js/main.a97bffe6.chunk.js",
+  "main.js.map": "/REACT-MY-TO-DO-LIST/static/js/main.a97bffe6.chunk.js.map",
   "static/js/1.206e060b.chunk.js": "/REACT-MY-TO-DO-LIST/static/js/1.206e060b.chunk.js",
   "static/js/1.206e060b.chunk.js.map": "/REACT-MY-TO-DO-LIST/static/js/1.206e060b.chunk.js.map",
   "static/js/2.06b04ffd.chunk.js": "/REACT-MY-TO-DO-LIST/static/js/2.06b04ffd.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/REACT-MY-TO-DO-LIST/static/js/runtime~main.88f26cd1.js.map",
   "static/css/main.f7564d33.chunk.css.map": "/REACT-MY-TO-DO-LIST/static/css/main.f7564d33.chunk.css.map",
   "index.html": "/REACT-MY-TO-DO-LIST/index.html",
-  "precache-manifest.c3509c586b0699668b3229dadd697e2d.js": "/REACT-MY-TO-DO-LIST/precache-manifest.c3509c586b0699668b3229dadd697e2d.js",
+  "precache-manifest.e456b3558e2ceab6f1ed0356ffb28069.js": "/REACT-MY-TO-DO-LIST/precache-manifest.e456b3558e2ceab6f1ed0356ffb28069.js",
   "service-worker.js": "/REACT-MY-TO-DO-LIST/service-worker.js"
 }
