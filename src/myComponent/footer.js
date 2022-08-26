@@ -5,7 +5,7 @@ export default function footer({mode}) {
     <div style={(mode==='Dark Mode')?({background:'rgb(0 64 255)',textAlign:'center',color:'white'}):
     ({background:'rgb(0 32 126)',textAlign:'center',color:'white'})}>
         all rights reserved by @amiyadas<br/>
-        contact:9090909090
+        contact:9090909090 Email:amiyaranjandas2000@gmial.com
     </div>
   )
 }
