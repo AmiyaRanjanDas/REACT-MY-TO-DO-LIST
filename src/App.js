@@ -109,7 +109,7 @@ export default function App(){
         </Routes>
         </div>
 
-        <Footer mode={text} style={{position:"absolute",bottom:'0',width:"100%",padding:"0.3rem"}}/>
+        <Footer mode={text}/>
       </HashRouter>
     </>
   )
